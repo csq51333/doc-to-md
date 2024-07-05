@@ -1,0 +1,15 @@
+{
+  "name": "doc-to-md",
+  "version": "1.0.0",
+  "description": "转md",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "陈泯邑",
+  "license": "ISC",
+  "dependencies": {
+    "mammoth": "^1.7.2"
+  }
+}
